@@ -424,11 +424,20 @@ header{
 .foto{
 	width: 30%;
 	margin-right: 1%;
-	
-	
 }
 
+.descripcion{
+	display: block;
+	width: 95%;
+	text-align: center;
+}
 
+.banner{
+	display: block;
+	float: left;
+	
+	width: 90%;
+}
 
 }
 /*iphones (landscape*/
